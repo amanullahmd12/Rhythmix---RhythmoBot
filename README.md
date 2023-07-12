@@ -30,14 +30,20 @@ $  python chat.py
 ```
 
 ## Interface:
-![WhatsApp Image 2023-07-11 at 14 44 14-2](https://github.com/amanullahmd12/Rhythmix/assets/92320933/e1e5d9cc-455e-40cb-9956-be32d359447f)
 
-![WhatsApp Image 2023-07-11 at 14 44 13-2](https://github.com/amanullahmd12/Rhythmix/assets/92320933/92add2b0-2b0e-4672-926b-4ca331e39294)
-
-![WhatsApp Image 2023-07-11 at 14 44 14](https://github.com/amanullahmd12/Rhythmix/assets/92320933/8198727a-b37c-4914-9d76-270fb3b256f9)
+<img width="1440" alt="Screenshot 2023-07-12 at 11 17 15 PM" src="https://github.com/amanullahmd12/Rhythmix---RhythmoBot/assets/92320933/c5d2a3dd-fa83-46b8-827c-d72ed2ae3a68">
 
 
-![WhatsApp Image 2023-07-11 at 14 44 13](https://github.com/amanullahmd12/Rhythmix/assets/92320933/f8693be8-4145-419d-81d8-44aac67bbe1f)
+
+<img width="1440" alt="Screenshot 2023-07-12 at 11 17 26 PM" src="https://github.com/amanullahmd12/Rhythmix---RhythmoBot/assets/92320933/9d6da9b9-68a5-46dd-94f8-64f66bdd884e">
+
+<img width="1440" alt="Screenshot 2023-07-12 at 11 17 50 PM" src="https://github.com/amanullahmd12/Rhythmix---RhythmoBot/assets/92320933/50f8e1da-7921-4045-a24e-5ecb8f6c8c1c">
+
+
+
+<img width="1440" alt="Screenshot 2023-07-12 at 11 18 05 PM" src="https://github.com/amanullahmd12/Rhythmix---RhythmoBot/assets/92320933/45b2e247-ba5d-4325-8e6b-f3d0b5f648a7">
+
+<img width="1440" alt="Screenshot 2023-07-12 at 11 18 18 PM" src="https://github.com/amanullahmd12/Rhythmix---RhythmoBot/assets/92320933/0125e856-ce7c-4181-a9c0-d226f465a613">
 
 
 
