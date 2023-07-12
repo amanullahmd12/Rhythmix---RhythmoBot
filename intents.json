@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "Songs",
+      "patterns": [
+        "Tell me a song!",
+        "Tell me new song!",
+        "Do you know a song?",
+        "I am feeling sad"
+      ],
+      "responses": [
+        "Ter Vaste Flak se <a href='https://www.youtube.com/watch?v=X7WXHhokylc'>Link</a>",
+        "Ter Vaste Flak se <a href='https://www.youtube.com/watch?v=X7WXHhokylc'>Link</a>",
+        "Ter Vaste Flak se <a href='https://www.youtube.com/watch?v=X7WXHhokylc'>Link</a>"
+    
+      ]
+    },
+    {
+      "tag": "Sad Songs",
+      "patterns": [
+        "Tell me a sad song!",
+        "Tell me new sad song!",
+        "Do you know a sad song?",
+        "I am feeling sad"
+      ],
+      "responses": [
+        "O Bedardiya <br/> <a href='https://www.jiosaavn.com/song/o-bedardeya-from-tu-jhoothi-main-makkaar/CCsafyNnRnQ'>Link</a> <br/> Kya Loge tum <br/> <a href='https://www.jiosaavn.com/song/kya-loge-tum/EwYiWyNaZ3E'>Link</a> <br/> Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a> <br/> Teri Galliyon Se <br/> <a href='https://www.jiosaavn.com/song/teri-galliyon-se/CiRZVzJyVWE'>Link</a> <br/> Dhokebaz <br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a>",
+
+        "Kya Loge tum <br/> <a href='https://www.jiosaavn.com/song/kya-loge-tum/EwYiWyNaZ3E'>Link</a><br/>Galtiyan<br/> <a href='https://www.jiosaavn.com/song/galtiyan/QQ8MViMCYGM'>Link</a> <br/> Dhokebaz<br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a> <br/> Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a> ",
+        "Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a>",
+
+
+
+        "Teri Galliyon Se <br/> <a href='https://www.jiosaavn.com/song/teri-galliyon-se/CiRZVzJyVWE'>Link</a> <br/> Kya Loge tum <br/> <a href='https://www.jiosaavn.com/song/kya-loge-tum/EwYiWyNaZ3E'>Link</a><br/>Galtiyan<br/> <a href='https://www.jiosaavn.com/song/galtiyan/QQ8MViMCYGM'>Link</a> <br/> Dhokebaz<br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a> <br/> Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a> ",
+        "Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a>" ,
+
+        "Dhokebaz<br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a> <br/> Kya Loge tum <br/> <a href='https://www.jiosaavn.com/song/kya-loge-tum/EwYiWyNaZ3E'>Link</a><br/>Galtiyan<br/> <a href='https://www.jiosaavn.com/song/galtiyan/QQ8MViMCYGM'>Link</a> <br/> Dhokebaz<br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a> <br/> Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a> ",
+        "Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a>",
+        "Galtiyan<br/> <a href='https://www.jiosaavn.com/song/galtiyan/QQ8MViMCYGM'>Link</a> <br/> Kya Loge tum <br/> <a href='https://www.jiosaavn.com/song/kya-loge-tum/EwYiWyNaZ3E'>Link</a><br/>Galtiyan<br/> <a href='https://www.jiosaavn.com/song/galtiyan/QQ8MViMCYGM'>Link</a> <br/> Dhokebaz<br/> <a href='https://www.jiosaavn.com/song/dhokebaaz/KRIGCS1EUVo'>Link</a> <br/> Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a> ",
+        "Bewafa Se Pyar kiya <br/> <a href='https://www.jiosaavn.com/song/bewafa-se-pyaar-kiya/GhAddTdlZkY'>Link</a>"
+
+ 
+    
+      ]
+    },
+    {
+      "tag": "Romantic songs",
+      "patterns": [
+        "Tell me a Romantic song",
+        "Suggest me Romantic song",
+        "Do you know a Romantic song?"
+      ],
+      "responses": [
+        "Zihaal e Miskin <br/> <a href='https://www.jiosaavn.com/song/zihaal-e-miskin/OQAgUxlXTmM'>Link</a>",
+        "Apna Bana le <br/> <a href='https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw'>Link</a>",
+        "Udd Jaa Kaale Kaava  <br/> <a href='https://www.jiosaavn.com/song/udd-jaa-kaale-kaava-from-gadar-2/JFk6dRxKU2k'>Link</a>"
+    
+      ]
+    },
+    {
+      "tag": "Arjit songs",
+      "patterns": [
+        "Tell me a Arjit Shing song",
+        "Suggest me Arjit Shing song",
+        "Do you know a Arjit Shing song?"
+      ],
+      "responses": [
+        "Zihaal e Miskin <a href='https://www.jiosaavn.com/song/zihaal-e-miskin/OQAgUxlXTmM'>Link</a>",
+        "Apna Bana le  <a href='https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw'>Link</a>",
+        "Udd Jaa Kaale Kaava <a href='https://www.jiosaavn.com/song/udd-jaa-kaale-kaava-from-gadar-2/JFk6dRxKU2k'>Link</a>"
+    
+      ]
+    },
+    {
+      "tag": "Atif Aslam songs",
+      "patterns": [
+        "Tell me a Atif Aslam  song",
+        "Suggest me Atif song",
+        "Do you know a Atif Aslam song?"
+      ],
+      "responses": [
+        "Dil Diyan Galan <br/> <a href='https://www.jiosaavn.com/song/dil-diyan-gallan/Ol1feEYEZkA'>Link</a>",
+        "Dekhte Dekhte  <a href='https://www.jiosaavn.com/song/dekhte-dekhte/Bx4ffDV1D1I'>Link</a>",
+        "Jeena Jeena <br/> <a href='https://www.jiosaavn.com/song/jeena-jeena/XSU-CE1neQY'>Link</a>"
+    
+      ]
+    }
+  ]
+}
