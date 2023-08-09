@@ -1,7 +1,6 @@
 # Rhythmix - Music Recommendation System and RhythmoBot 🎵🤖
 
 Welcome to the GitHub repository of Rhythmix, a cutting-edge Music Recommendation System, and RhythmoBot, an NLP-powered music recommendation chatbot!
-
 ## Description
 
 Rhythmix is a powerful music recommendation system that leverages state-of-the-art machine learning algorithms and collaborative filtering techniques to curate a delightful music experience for users. With a vast database of songs and a sophisticated recommendation engine, Rhythmix analyzes user interactions and behavior to understand their unique taste in music. This results in highly accurate and relevant song recommendations, ensuring users discover new tracks they will love.
@@ -84,7 +83,7 @@ $  python chat.py
 
 ## Thank You
 
-Thank you for exploring Rhythmix - the Music Recommendation System, and RhythmoBot - the NLP-powered music recommendation chatbot. Our mission is to provide users with an exceptional music discovery experience and make music an integral part of their lives. Let's create harmony together in the world of music! 🎵🤖
+Thank you for exploring Rhythmix - the Music Recommendation System, and RhythmoBot - the NLP-powered music recommendation chatbot. 🎵🤖
 
 
 
